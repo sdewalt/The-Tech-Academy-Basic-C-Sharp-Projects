@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb
