@@ -20,6 +20,7 @@ namespace BooleanLogicAssignment
             int driverTickets = Convert.ToInt32(Console.ReadLine());
 
             bool Qualified = (driverAge > 15 && driverDUI == false && driverTickets <= 3);
+            Console.WriteLine("Qualified?");
             Console.Write(Qualified);
             Console.ReadLine();
         }
