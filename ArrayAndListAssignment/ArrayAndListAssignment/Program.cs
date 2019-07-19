@@ -10,7 +10,8 @@ namespace ArrayAndListAssignment
         {
             //Create an array of integers. Ask the user to select an index of the 
             //array and then display the integer at that index on the screen.
-            
+            Console.WriteLine("Hello World!");
+            Console.Read();
            
 
         }
