@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.pdb

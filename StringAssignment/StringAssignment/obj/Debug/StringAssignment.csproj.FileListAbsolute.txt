@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
