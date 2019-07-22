@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.exe.config
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.pdb
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.pdb
