@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsIIIAssignment\MethodsIIIAssignment\bin\Debug\MethodsIIIAssignment.exe.config
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsIIIAssignment\MethodsIIIAssignment\bin\Debug\MethodsIIIAssignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsIIIAssignment\MethodsIIIAssignment\bin\Debug\MethodsIIIAssignment.pdb
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsIIIAssignment\MethodsIIIAssignment\obj\Debug\MethodsIIIAssignment.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsIIIAssignment\MethodsIIIAssignment\obj\Debug\MethodsIIIAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsIIIAssignment\MethodsIIIAssignment\obj\Debug\MethodsIIIAssignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsIIIAssignment\MethodsIIIAssignment\obj\Debug\MethodsIIIAssignment.pdb
