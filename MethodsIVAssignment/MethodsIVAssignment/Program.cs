@@ -24,10 +24,21 @@ namespace MethodsIVAssignment
         {
             Console.WriteLine("Please enter one or two number(s), one at a time.");
             int userInput1 = Convert.ToInt32(Console.ReadLine());
-            int userInput2 = Convert.ToInt32(Console.ReadLine());
+            string userInput2 = Console.ReadLine();
 
             optionalInteger objectName = new optionalInteger();
-            int result = objectName.Add(userInput1, userInput2);
+            int result;
+
+            if (string.IsNullOrEmpty(userInput2))
+            {
+                
+                result = objectName.Subtract(userInput1);
+            }
+            else
+            {
+                result = objectName.Subtract(userInput1, Convert.ToInt32(userInput2));
+            }
+            
 
             Console.WriteLine(result);
             Console.ReadLine();

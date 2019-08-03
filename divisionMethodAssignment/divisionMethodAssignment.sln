@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "divisionMethodAssignment", "divisionMethodAssignment\divisionMethodAssignment.csproj", "{728A5E5E-F4AB-44D1-BBB8-CE2AA1278E25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{728A5E5E-F4AB-44D1-BBB8-CE2AA1278E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728A5E5E-F4AB-44D1-BBB8-CE2AA1278E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728A5E5E-F4AB-44D1-BBB8-CE2AA1278E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728A5E5E-F4AB-44D1-BBB8-CE2AA1278E25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9610D490-8B6C-4A6B-A76C-0240D46CD343}
+	EndGlobalSection
+EndGlobal
