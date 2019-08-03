@@ -5,12 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace MethodsIVAssignment
-{ 
+{
     public class optionalInteger
     {
-        public int Divide(int userInput1, int userInput2)
+        public int Add(int userInput1, int userInput2 = 3)
         {
-            int result = userInput1 / userInput2;
+            int result = userInput1 + userInput2;
 
             return result;
         }

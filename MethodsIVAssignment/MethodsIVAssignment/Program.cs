@@ -27,7 +27,7 @@ namespace MethodsIVAssignment
             int userInput2 = Convert.ToInt32(Console.ReadLine());
 
             optionalInteger objectName = new optionalInteger();
-            int result = objectName.Divide(userInput1, userInput2);
+            int result = objectName.Add(userInput1, userInput2);
 
             Console.WriteLine(result);
             Console.ReadLine();
