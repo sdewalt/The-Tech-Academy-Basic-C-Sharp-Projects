@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 //Create a class. In that class, create three methods, each of which will take one integer parameter in
-//and return an iteger. The methods should do some math operation on the received parameter. Put this 
+//and return an integer. The methods should do some math operation on the received parameter. Put this 
 //class in a seperate .cs file in the application.
 
-//In the Main() program, ask the user what number they want to do the math operaations on
+//In the Main() program, ask the user what number they want to do the math operations on.
 
 //Call each method in turn, passing the user input into the method. Display the returned integer to the screen.
 
