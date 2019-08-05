@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\divisionMethodAssignment\divisionMethodAssignment\bin\Debug\divisionMethodAssignment.exe.config
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\divisionMethodAssignment\divisionMethodAssignment\bin\Debug\divisionMethodAssignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\divisionMethodAssignment\divisionMethodAssignment\bin\Debug\divisionMethodAssignment.pdb
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\divisionMethodAssignment\divisionMethodAssignment\obj\Debug\divisionMethodAssignment.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\divisionMethodAssignment\divisionMethodAssignment\obj\Debug\divisionMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\divisionMethodAssignment\divisionMethodAssignment\obj\Debug\divisionMethodAssignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\divisionMethodAssignment\divisionMethodAssignment\obj\Debug\divisionMethodAssignment.pdb

@@ -21,16 +21,21 @@ namespace divisionMethodAssignment
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Please enter a number you'd like to be used in the equation.");
             int userInput = Convert.ToInt32(Console.ReadLine());
 
             divideBy2 objectName = new divideBy2();
-            int result = objectName.Divide(userInput, 2);
+            objectName.Divide(2);
+            Console.WriteLine(objectName.Divide(userInput));
+            Console.WriteLine();
+            objectName.Multiplication(2, 34.5f, 5);
 
-            Console.WriteLine(result);
             Console.ReadLine();
+
         }
+
     }
 }
+

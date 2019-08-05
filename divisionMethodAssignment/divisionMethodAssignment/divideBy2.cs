@@ -8,9 +8,29 @@ namespace divisionMethodAssignment
 {
     class divideBy2
     {
-        public void int Divide(int userInput, 2)
+        public int Divide(int Input)
         {
-            int result = userInput / 2;
+            return Input / 2
+            ;
+        }
+
+        //Method with output parameters and overload
+        public void Multiplication(int a, out int b)
+
+        {
+            a = 6;
+            b = 4;
+           
+        }
+
+        public void Multiplication(double x, float y, int a)
+        {
+            x = .78;
+            y = .97696f;
+
+            Console.WriteLine("x Value: {0}", x);
+            Console.WriteLine("y Value: {0}", y);
+            Console.ReadLine();
         }
 
     }
