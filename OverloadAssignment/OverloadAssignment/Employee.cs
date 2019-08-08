@@ -9,7 +9,7 @@ namespace OverloadAssignment
     public class Employee
     {
         //Property for Id
-        public int Id{ get; set; }
+        public int Id { get; set; }
 
         public static bool operator ==(Employee emp1, Employee emp2)
         {
@@ -18,13 +18,13 @@ namespace OverloadAssignment
                 return true;
             }
         }
-        public static bool operator!=(Employee emp1, Employee emp2)
+        public static bool operator !=(Employee emp1, Employee emp2)
         {
             if (emp1.Id != emp2.Id) ;
             {
-                return false;    
+                return false;
             }
         }
 
-        }
     }
+}
