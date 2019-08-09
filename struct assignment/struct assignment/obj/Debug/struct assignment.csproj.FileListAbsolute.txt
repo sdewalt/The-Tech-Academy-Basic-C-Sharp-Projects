@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\struct assignment\struct assignment\bin\Debug\struct assignment.exe.config
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\struct assignment\struct assignment\bin\Debug\struct assignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\struct assignment\struct assignment\bin\Debug\struct assignment.pdb
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\struct assignment\struct assignment\obj\Debug\struct assignment.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\struct assignment\struct assignment\obj\Debug\struct assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\struct assignment\struct assignment\obj\Debug\struct assignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\struct assignment\struct assignment\obj\Debug\struct assignment.pdb
