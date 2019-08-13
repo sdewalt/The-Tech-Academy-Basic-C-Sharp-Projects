@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\lambda assignment\lambda assignment\obj\Debug\lambda assignment.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\lambda assignment\lambda assignment\obj\Debug\lambda assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\lambda assignment\lambda assignment\bin\Debug\lambda assignment.exe.config
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\lambda assignment\lambda assignment\bin\Debug\lambda assignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\lambda assignment\lambda assignment\bin\Debug\lambda assignment.pdb
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\lambda assignment\lambda assignment\obj\Debug\lambda assignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\lambda assignment\lambda assignment\obj\Debug\lambda assignment.pdb
