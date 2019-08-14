@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\log assignment\log assignment\bin\Debug\log assignment.exe.config
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\log assignment\log assignment\bin\Debug\log assignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\log assignment\log assignment\bin\Debug\log assignment.pdb
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\log assignment\log assignment\obj\Debug\log assignment.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\log assignment\log assignment\obj\Debug\log assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\log assignment\log assignment\obj\Debug\log assignment.exe
+C:\Users\Administrator\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\log assignment\log assignment\obj\Debug\log assignment.pdb
