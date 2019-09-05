@@ -24,13 +24,13 @@ namespace Datetime_assignment
             Console.WriteLine(DateTime.Now);
             Console.ReadLine();
 
-            //Console.WriteLine("Please enter a number: ");
-            //userInput = Console.ReadLine();
-            //intVal = Convert.ToInt32(userInput);
+            Console.WriteLine("Please enter a number: ");
+            userInput = Console.ReadLine();
+            intVal = Convert.ToInt32(userInput);
 
-            //date = date.AddHours(intVal);
-            //Console.WriteLine(date);
-            //Console.ReadLine();
+            date = date.AddHours(intVal);
+            Console.WriteLine(date);
+            Console.ReadLine();
 
         }
     }
